@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @tikirikunaka
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-tikirikunaka/tikirikunaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Dear you who are watching this page.
+Hello, I'm tikirikunaka.
+I'm not good at programming and English.
+But if my code can help you, I will be very happy.
+I hope you have a special programming life.
