@@ -1,8 +1,12 @@
 Dear you who are watching this page.
 
-Hello, I'm tikirikunaka.
+Hello, I'm tiki_rikunaka.
 
-I'm not good at programming and English.
+I was Hardware Engineer in Japan.
+
+I'm a Mathematics and Physics teacher.
+
+I'm not good at Programming and English.
 
 But if my code can help you, I will be very happy.
 
