@@ -1,4 +1,4 @@
-# intro
+# Intro
 Dear you who are watching this page.
 
 Hello, I'm tiki_rikunaka.
@@ -13,9 +13,14 @@ But if my code can help you, I will be very happy.
 
 I hope you have a special programming life.
 
-# Like Language:
+# Language
 - Python
 - C
-- Rust
-- Standard ML
+- Haskell
 
+# Major
+- Hardware + Deep Learning (Quantization, Pruning, Matrix Factorization)
+- Formal Verification
+
+# Like
+- DTM
