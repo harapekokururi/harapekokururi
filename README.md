@@ -1,3 +1,4 @@
+# intro
 Dear you who are watching this page.
 
 Hello, I'm tiki_rikunaka.
@@ -12,7 +13,7 @@ But if my code can help you, I will be very happy.
 
 I hope you have a special programming life.
 
-Like Language:
+# Like Language:
 - Python
 - C
 - Rust
