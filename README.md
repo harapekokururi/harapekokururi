@@ -1,7 +1,7 @@
 # Intro
 Dear you who are watching this page.
 
-Hello, I'm tiki_rikunaka.
+Hello, I'm tiki_himeno.
 
 I was Hardware Engineer in Japan.
 
