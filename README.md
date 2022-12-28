@@ -3,9 +3,7 @@ Dear you who are watching this page.
 
 Hello, I'm tiki_himeno(姫野地生).
 
-I was Hardware Engineer in Japan.
-
-I'm a Mathematics and Physics teacher now.
+I was Hardware Engineer in Japan, am Mathematics and Physics teacher now.
 
 I'm not good at Programming and English.
 
