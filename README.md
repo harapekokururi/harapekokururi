@@ -14,7 +14,7 @@ I hope you have a special programming life.
 # Language
 - Python
 - C
-- Haskell
+- LaTeX
 
 # Major
 - Hardware + Deep Learning (Quantization, Pruning, Matrix Factorization)
