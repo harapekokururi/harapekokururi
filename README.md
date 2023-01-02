@@ -3,7 +3,7 @@ Dear you who are watching this page.
 
 Hello, I'm tiki_himeno(姫野地生).
 
-I was Hardware Engineer in Japan, am Mathematics and Physics teacher now.
+I was Hardware Engineer in Japan, and now I am Mathematics teacher.
 
 I'm not good at Programming and English.
 
@@ -13,12 +13,14 @@ I hope you have a special programming life.
 
 # Language
 - Python
-- C
+- Go
 - LaTeX
 
 # Major
-- Hardware + Deep Learning (Quantization, Pruning, Matrix Factorization)
+- Hardware + Deep Learning (Quantization, Pru
+ning, Matrix Factorization)
 - Formal Verification
 
 # Like
 - DTM
+- novel
