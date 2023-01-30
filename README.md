@@ -11,16 +11,15 @@ But if my code can help you, I will be very happy.
 
 I hope you have a special programming life.
 
-# Language
-- Python
-- Go
-- LaTeX
+# Like Language
+- Python♥
+- LaTeX♥
 
 # Major
-- Hardware + Deep Learning (Quantization, Pru
-ning, Matrix Factorization)
+- Hardware + Deep Learning (Quantization, Pruning, Matrix Factorization)
 - Formal Verification
 
 # Like
 - DTM
 - novel
+- mathematics
