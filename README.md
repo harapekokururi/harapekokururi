@@ -13,11 +13,12 @@ I hope you have a special programming life.
 
 # Like Language
 - Python♥
+- Haskell…
 - LaTeX♥
 
 # Major
 - Hardware + Deep Learning (Quantization, Pruning, Matrix Factorization)
-- Formal Verification
+- Formal Verification, Programming Language
 
 # Like
 - DTM
