@@ -13,7 +13,7 @@ I hope you have a special programming life.
 
 # Like Language
 - Python♥
-- Haskell…
+- Haskell…(studying now)
 - LaTeX♥
 
 # Major
@@ -21,6 +21,5 @@ I hope you have a special programming life.
 - Formal Verification, Programming Language
 
 # Like
-- DTM
 - novel
 - mathematics
